@@ -12,28 +12,7 @@ This repository contains the following key components:
 
 1. **`Diabetes-Prediction-Using-ML-and-SVM/`**: Directory containing the "Diabetes Prediction Using Machine Learning and SVM" project files.
    - **`diabetes_prediction.py`**: The main script for diabetes prediction.
-   - **`requirements.txt`**: List of required Python packages.
    - **`README.md`**: This file, providing an overview of the project.
-   - **`dataset/`**: Directory containing the PIMA Indians Diabetes Dataset.
-   - **`results/`**: Directory for storing results and logs (if applicable).
-
-### Installation
-To set up this project, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/ML-PROJECTS.git
-   ```
-
-2. **Navigate to the Project Directory**:
-   ```bash
-   cd ML-PROJECTS/Diabetes-Prediction-Using-ML-and-SVM
-   ```
-
-3. **Install Required Packages**:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ### Dataset
 The project utilizes the PIMA Indians Diabetes Dataset. This dataset comprises various medical measurements from women of Pima Indian heritage, aimed at predicting the presence of diabetes.
