@@ -1,14 +1,4 @@
-# ML-PROJECTS
-
-Welcome to the `ML-PROJECTS` repository! This repository contains various machine learning projects showcasing different algorithms, techniques, and applications. Each project aims to demonstrate the practical use of machine learning methods in solving real-world problems.
-
-## Project: Diabetes Prediction Using Machine Learning and SVM
-
-### Overview
-This project focuses on predicting the likelihood of diabetes based on medical measurements using machine learning. Specifically, we employ the Support Vector Machine (SVM) algorithm, renowned for its classification capabilities. The dataset used is the PIMA Indians Diabetes Dataset, a well-known dataset in the medical field.
-
-### Project Structure
-This repository contains the following key components:
+# DIABATEES PREDICTION USING SVM
 
 1. **`Diabetes-Prediction-Using-ML-and-SVM/`**: Directory containing the "Diabetes Prediction Using Machine Learning and SVM" project files.
    - **`diabetes_prediction.py`**: The main script for diabetes prediction.
